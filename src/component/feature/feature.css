@@ -1,0 +1,23 @@
+.gpt3__features-container__feature-text {
+    display: flex;
+    flex-direction: column;
+    color: var(--color-text);
+}
+
+.gpt3__features-container__feature-title {
+    color: #fff;
+}
+
+.gpt3__features-container__feature-title div {
+    width: 39px;
+    height: 3px;
+    background: var(--gradient-bar);
+    margin-bottom: 0.25rem;
+}
+
+.gpt3__features-container__feature {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: column;
+}

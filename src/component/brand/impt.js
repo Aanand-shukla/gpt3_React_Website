@@ -1,0 +1,5 @@
+export { default as google } from '../../Assets/assets/google.png'
+export { default as slack } from '../../Assets/assets/slack.png'
+export { default as atlassian } from '../../Assets/assets/atlassian.png'
+export { default as dropbox } from '../../Assets/assets/dropbox.png'
+export { default as shopify } from '../../Assets/assets/shopify.png'
