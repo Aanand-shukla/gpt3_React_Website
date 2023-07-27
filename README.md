@@ -33,13 +33,7 @@ Welcome to the ChatGPT OpenAI Features website! This static site, built with Rea
 Aanand Shukla, an adept frontend developer, adept in HTML, CSS, and JavaScript, crafting engaging and user-friendly interfaces. Skilled in React , creating dynamic web applications. Committed to responsive design principles, ensuring seamless experiences on diverse devices. Collaborative team player, valuing feedback and fostering innovation. Continuously learning and adapting to emerging trends, prioritizing user experience. Enthusiastic about delivering high-quality products, keen on new challenges, and striving to excel in the ever-evolving tech industry.
 
 
-## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## 🔗 Links
@@ -84,6 +78,15 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
 
 ### `npm run eject`
 
