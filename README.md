@@ -1,3 +1,59 @@
+# Title 
+About ChatGPT
+
+# Description
+
+Welcome to the ChatGPT OpenAI Features website! This static site, built with React, showcases the incredible capabilities of ChatGPT. Explore its natural language processing prowess, real-time conversational abilities, and vast knowledge base. Engage with the AI to witness its problem-solving skills and personalized responses. The user-friendly interface provides an immersive experience with minimal setup required. Check out the GitHub repository for easy deployment and contribute to this exciting project!
+## Screenshots
+
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-45.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-40.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-34_13.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-32.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-32.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-41.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-42_7.png)
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-35_6.png)
+
+# Responsive
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-36_3.png)
+
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-37_8.png)
+
+![App Screenshot](https://www.linkpicture.com/q/Screenshot-39_7.png)
+
+
+
+
+## 🚀 About Me
+
+
+![App Screenshot](https://www.linkpicture.com/q/WhatsApp-Image-2023-07-27-at-3.45.42-PM.jpeg)
+ 
+Aanand Shukla, an adept frontend developer, adept in HTML, CSS, and JavaScript, crafting engaging and user-friendly interfaces. Skilled in React , creating dynamic web applications. Committed to responsive design principles, ensuring seamless experiences on diverse devices. Collaborative team player, valuing feedback and fostering innovation. Continuously learning and adapting to emerging trends, prioritizing user experience. Enthusiastic about delivering high-quality products, keen on new challenges, and striving to excel in the ever-evolving tech industry.
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Aanand-shukla/gpt3_React_Website)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanand-shukla)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shuklagii?t=Ut9TgQGsajoLohvLoJnprg&s=09)
+
+
+## Authors
+
+- [@Aanand Shukla](https://github.com/Aanand-shukla)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
